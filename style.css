@@ -81,6 +81,8 @@ height: 500px;
     margin-left:40px;
    margin-right:40px;
 }
+
+/* design for section 3 */
 .welcome
 {
     color: #c44848;
@@ -126,21 +128,114 @@ text-transform: capitalize;
 
 .section3
 {
-     background-color: pink;
+     background-color:paleturquoise;
+    
+}
+
+.bdone
+{
+
+    padding-left: 550px;
 }
 
 .button1
 {
-
+    display: inline-flex;
+    padding: 16px 32px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
     
- 
- 
-align-items: center;
-gap: 10px;
- 
-border-radius: 8px;
-background: #F00;
+    border-radius: 8px;
+    background: #F00;
+    border:none;
 }
+.button2
+{
+ color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
+}
+
+.palace1 , .date2 ,.evening
+{
+    text-align: center;
+}
+
+/* design for section 4
+
+*/
+.new
+{
+
+color: #F00;
+text-align:left;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.coming
+{
+
+color: #070211;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+}
+
+.vel
+{
+
+color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; /* 160% */
+}
+
+.det
+{
+color: #F00;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.eget
+{
+
+color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; /* 160% */
+}
+.section4
+{
+    margin:100px 40px 100px 40px;
+}
+
+.flex-4
+{
+    display:flex;
+    gap:20px;
+}
+
+ 
 
 
 /* design of section 5 */
